@@ -411,6 +411,10 @@
 					"label": "62703f3c-e044-43b9-89fe-02588383a5f7",
 					"locked": false,
 					"name": "62703f3c-e044-43b9-89fe-02588383a5f7",
+					"rule": {
+						"condition": "",
+						"rules": []
+					},
 					"settings": [
 						{
 							"attributes": [],
@@ -453,6 +457,381 @@
 																	"name": "content",
 																	"type": 1,
 																	"value": "<dl>\n<dt>Carbon Saved</dt>\n<dd>x</dd>\n<dt>Offsets Purchased</dt>\n<dd>X</dd>\n<dt>Awards</dt>\n<dd>X</dd>\n</dl>"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "jsScript",
+																	"name": "jsScript",
+																	"type": 1,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "snippet",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "snippet"
+														}
+													],
+													"computedValue": null,
+													"displayName": "0",
+													"name": "0",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "panes",
+											"name": "panes",
+											"type": 4,
+											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "name",
+											"name": "name",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "label",
+											"name": "label",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "",
+											"displayName": "stylePlugin",
+											"name": "stylePlugin",
+											"type": 1,
+											"value": ""
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [],
+													"computedValue": null,
+													"displayName": "settings",
+													"name": "settings",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "columnSetting",
+											"name": "columnSetting",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "panels",
+							"name": "panels",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "contexts",
+							"name": "contexts",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "rowSettings",
+							"name": "rowSettings",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "readUserIds",
+									"name": "readUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "writeUserIds",
+									"name": "writeUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "deleteUserIds",
+									"name": "deleteUserIds",
+									"type": 4,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "entityPermissions",
+							"name": "entityPermissions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "id",
+							"name": "id",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "gridless",
+							"displayName": "layoutType",
+							"name": "layoutType",
+							"type": 1,
+							"value": "gridless"
+						},
+						{
+							"attributes": [],
+							"computedValue": "page",
+							"displayName": "displayType",
+							"name": "displayType",
+							"type": 1,
+							"value": "page"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "name",
+							"name": "name",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "title",
+							"name": "title",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "card.rollthecloud.com",
+							"displayName": "site",
+							"name": "site",
+							"type": 1,
+							"value": "card.rollthecloud.com"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "userId",
+							"name": "userId",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "path",
+							"name": "path",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "dataduct",
+									"name": "dataduct",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "persistence",
+							"name": "persistence",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "listeners",
+											"name": "listeners",
+											"type": 4,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "interactions",
+									"name": "interactions",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "interactions",
+							"name": "interactions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "settings",
+									"name": "settings",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "layoutSetting",
+							"name": "layoutSetting",
+							"type": 2,
+							"value": null
+						}
+					]
+				},
+				{
+					"contentPlugin": "panel",
+					"contexts": [],
+					"label": "6075f42c-186f-40f8-b208-826fc01de3ec",
+					"locked": false,
+					"name": "6075f42c-186f-40f8-b208-826fc01de3ec",
+					"settings": [
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "gridItems",
+							"name": "gridItems",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "text/html",
+																	"displayName": "Content Type",
+																	"name": "contentType",
+																	"type": 1,
+																	"value": "text/html"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "<h2>Initiatives & Accomplishments</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>",
+																	"displayName": "Content",
+																	"name": "content",
+																	"type": 1,
+																	"value": "<h2>Initiatives & Accomplishments</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>"
 																},
 																{
 																	"attributes": [],
