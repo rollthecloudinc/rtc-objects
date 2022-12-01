@@ -3254,11 +3254,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "Ut ut laoreet orci, rutrum egestas risus. ",
+																																					"computedValue": "Award winning clean energy data store.",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "Ut ut laoreet orci, rutrum egestas risus. "
+																																					"value": "Award winning clean energy data store."
 																																				},
 																																				{
 																																					"attributes": [],
@@ -3314,6 +3314,31 @@
 																																			"name": "contentPlugin",
 																																			"type": 1,
 																																			"value": "snippet"
+																																		},
+																																		{
+																																			"attributes": [
+																																				{
+																																					"attributes": [],
+																																					"computedValue": "",
+																																					"displayName": "condition",
+																																					"name": "condition",
+																																					"type": 1,
+																																					"value": ""
+																																				},
+																																				{
+																																					"attributes": [],
+																																					"computedValue": null,
+																																					"displayName": "rules",
+																																					"name": "rules",
+																																					"type": 4,
+																																					"value": null
+																																				}
+																																			],
+																																			"computedValue": null,
+																																			"displayName": "rule",
+																																			"name": "rule",
+																																			"type": 2,
+																																			"value": null
 																																		}
 																																	],
 																																	"computedValue": null,
@@ -3818,11 +3843,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "Ut ut laoreet orci, rutrum egestas risus. ",
+																																					"computedValue": "Low carbon modern delightful web publishing",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "Ut ut laoreet orci, rutrum egestas risus. "
+																																					"value": "Low carbon modern delightful web publishing"
 																																				},
 																																				{
 																																					"attributes": [],
@@ -3878,6 +3903,31 @@
 																																			"name": "contentPlugin",
 																																			"type": 1,
 																																			"value": "snippet"
+																																		},
+																																		{
+																																			"attributes": [
+																																				{
+																																					"attributes": [],
+																																					"computedValue": "",
+																																					"displayName": "condition",
+																																					"name": "condition",
+																																					"type": 1,
+																																					"value": ""
+																																				},
+																																				{
+																																					"attributes": [],
+																																					"computedValue": null,
+																																					"displayName": "rules",
+																																					"name": "rules",
+																																					"type": 4,
+																																					"value": null
+																																				}
+																																			],
+																																			"computedValue": null,
+																																			"displayName": "rule",
+																																			"name": "rule",
+																																			"type": 2,
+																																			"value": null
 																																		}
 																																	],
 																																	"computedValue": null,
@@ -4382,11 +4432,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "Ut ut laoreet orci, rutrum egestas risus. ",
+																																					"computedValue": "Decarbonize the web at rapid pace.",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "Ut ut laoreet orci, rutrum egestas risus. "
+																																					"value": "Decarbonize the web at rapid pace."
 																																				},
 																																				{
 																																					"attributes": [],
@@ -4442,6 +4492,31 @@
 																																			"name": "contentPlugin",
 																																			"type": 1,
 																																			"value": "snippet"
+																																		},
+																																		{
+																																			"attributes": [
+																																				{
+																																					"attributes": [],
+																																					"computedValue": "",
+																																					"displayName": "condition",
+																																					"name": "condition",
+																																					"type": 1,
+																																					"value": ""
+																																				},
+																																				{
+																																					"attributes": [],
+																																					"computedValue": null,
+																																					"displayName": "rules",
+																																					"name": "rules",
+																																					"type": 4,
+																																					"value": null
+																																				}
+																																			],
+																																			"computedValue": null,
+																																			"displayName": "rule",
+																																			"name": "rule",
+																																			"type": 2,
+																																			"value": null
 																																		}
 																																	],
 																																	"computedValue": null,
