@@ -8704,11 +8704,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Servers</h3>",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Servers</h3>"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -9293,11 +9293,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Infrastructure</p>",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Infrastructure</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Infrastructure</p>"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Infrastructure</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -9882,11 +9882,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Databases</p>",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Databases</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Databases</p>"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Databases</p>"
 																										},
 																										{
 																											"attributes": [],
