@@ -6079,11 +6079,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "Reduce",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Reduce</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "Reduce"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Reduce</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -6139,6 +6139,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -6221,6 +6246,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -6618,11 +6668,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "Reuse",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Reuse</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "Reuse"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Reuse</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -6678,6 +6728,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -6760,6 +6835,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -7157,11 +7257,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "Recycle",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Recycle</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "Recycle"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">Recycle</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -7217,6 +7317,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -7299,6 +7424,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
