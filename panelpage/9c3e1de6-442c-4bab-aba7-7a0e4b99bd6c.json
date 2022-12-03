@@ -485,11 +485,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<dl>\n<dt>Carbon Saved</dt>\n<dd>x</dd>\n<dt>Offsets Purchased</dt>\n<dd>X</dd>\n<dt>Awards</dt>\n<dd>X</dd>\n</dl>",
+																	"computedValue": "<dl>\n<dt>Carbon Saved</dt>\n<dd>x</dd>\n<dt>Offsets Purchased</dt>\n<dd>X</dd>\n<dt>Awards</dt>\n<dd>X</dd>\n</dl>\n<dl class=\"mt-10 grid grid-cols-2 gap-y-6 gap-x-10 sm:mt-16 sm:gap-y-10 sm:gap-x-16 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left\">\n  <div>\n      <dt class=\"font-mono text-sm text-blue-600\">Speakers</dt>\n      <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">18</dd>\n   </div>\n<div>\n    <dt class=\"font-mono text-sm text-blue-600\">People Attending</dt>\n       <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">2,091</dd>\n</div>\n<div>\n   <dt class=\"font-mono text-sm text-blue-600\">Venue</dt>\n   <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">Staples Center</dd>\n</div>\n<div>\n   <dt class=\"font-mono text-sm text-blue-600\">Location</dt>\n   <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">Los Angeles</dd>\n</div>\n</dl>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<dl>\n<dt>Carbon Saved</dt>\n<dd>x</dd>\n<dt>Offsets Purchased</dt>\n<dd>X</dd>\n<dt>Awards</dt>\n<dd>X</dd>\n</dl>"
+																	"value": "<dl>\n<dt>Carbon Saved</dt>\n<dd>x</dd>\n<dt>Offsets Purchased</dt>\n<dd>X</dd>\n<dt>Awards</dt>\n<dd>X</dd>\n</dl>\n<dl class=\"mt-10 grid grid-cols-2 gap-y-6 gap-x-10 sm:mt-16 sm:gap-y-10 sm:gap-x-16 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left\">\n  <div>\n      <dt class=\"font-mono text-sm text-blue-600\">Speakers</dt>\n      <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">18</dd>\n   </div>\n<div>\n    <dt class=\"font-mono text-sm text-blue-600\">People Attending</dt>\n       <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">2,091</dd>\n</div>\n<div>\n   <dt class=\"font-mono text-sm text-blue-600\">Venue</dt>\n   <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">Staples Center</dd>\n</div>\n<div>\n   <dt class=\"font-mono text-sm text-blue-600\">Location</dt>\n   <dd class=\"mt-0.5 text-2xl font-semibold tracking-tight text-blue-900\">Los Angeles</dd>\n</div>\n</dl>"
 																},
 																{
 																	"attributes": [],
@@ -545,6 +545,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -757,6 +782,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
@@ -924,6 +957,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -1136,6 +1194,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
