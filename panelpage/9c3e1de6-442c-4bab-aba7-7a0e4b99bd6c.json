@@ -73,11 +73,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<h1>We are web developers rolling back mother earths climate clock</h1>\n<p>At roll the cloud we are all about things that roll. From wind mills to moving forward is how we roll. Rolling with sustainable technology innovations for prolonged environmental longevity and global balance. Our area of focus is the lesser publicized polluter the world wide web.</p>\n<p>We are on a mission to build a sustainable web that runs on green energy and less of it. Knocking down carbon rolling back the clock preserving mother earth for generations to come.</p>",
+																	"computedValue": "<h1 class=\"font-display text-5xl font-bold tracking-tighter text-blue-600 sm:text-7xl\">We are web developers rolling back mother earths climate clock</h1>\n<p>At roll the cloud we are all about things that roll. From wind mills to moving forward is how we roll. Rolling with sustainable technology innovations for prolonged environmental longevity and global balance. Our area of focus is the lesser publicized polluter the world wide web.</p>\n<p>We are on a mission to build a sustainable web that runs on green energy and less of it. Knocking down carbon rolling back the clock preserving mother earth for generations to come.</p>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<h1>We are web developers rolling back mother earths climate clock</h1>\n<p>At roll the cloud we are all about things that roll. From wind mills to moving forward is how we roll. Rolling with sustainable technology innovations for prolonged environmental longevity and global balance. Our area of focus is the lesser publicized polluter the world wide web.</p>\n<p>We are on a mission to build a sustainable web that runs on green energy and less of it. Knocking down carbon rolling back the clock preserving mother earth for generations to come.</p>"
+																	"value": "<h1 class=\"font-display text-5xl font-bold tracking-tighter text-blue-600 sm:text-7xl\">We are web developers rolling back mother earths climate clock</h1>\n<p>At roll the cloud we are all about things that roll. From wind mills to moving forward is how we roll. Rolling with sustainable technology innovations for prolonged environmental longevity and global balance. Our area of focus is the lesser publicized polluter the world wide web.</p>\n<p>We are on a mission to build a sustainable web that runs on green energy and less of it. Knocking down carbon rolling back the clock preserving mother earth for generations to come.</p>"
 																},
 																{
 																	"attributes": [],
@@ -133,6 +133,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -345,6 +370,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
