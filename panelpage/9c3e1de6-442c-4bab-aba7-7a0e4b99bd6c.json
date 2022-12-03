@@ -7795,6 +7795,1946 @@
 							"value": null
 						}
 					]
+				},
+				{
+					"contentPlugin": "panel",
+					"contexts": [],
+					"label": "c0605689-4bc9-4fb6-bea1-c365d15d86c9",
+					"locked": false,
+					"name": "c0605689-4bc9-4fb6-bea1-c365d15d86c9",
+					"settings": [
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "gridItems",
+							"name": "gridItems",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "text/html",
+																	"displayName": "Content Type",
+																	"name": "contentType",
+																	"type": 1,
+																	"value": "text/html"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "<h2>Neutralizing energy hungry resources producing more impact with less emissions.</h2>",
+																	"displayName": "Content",
+																	"name": "content",
+																	"type": 1,
+																	"value": "<h2>Neutralizing energy hungry resources producing more impact with less emissions.</h2>"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "jsScript",
+																	"name": "jsScript",
+																	"type": 1,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "snippet",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "snippet"
+														}
+													],
+													"computedValue": null,
+													"displayName": "0",
+													"name": "0",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "panes",
+											"name": "panes",
+											"type": 4,
+											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "name",
+											"name": "name",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "label",
+											"name": "label",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "",
+											"displayName": "stylePlugin",
+											"name": "stylePlugin",
+											"type": 1,
+											"value": ""
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [],
+													"computedValue": null,
+													"displayName": "settings",
+													"name": "settings",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "columnSetting",
+											"name": "columnSetting",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "panels",
+							"name": "panels",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "contexts",
+							"name": "contexts",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "rowSettings",
+							"name": "rowSettings",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "readUserIds",
+									"name": "readUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "writeUserIds",
+									"name": "writeUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "deleteUserIds",
+									"name": "deleteUserIds",
+									"type": 4,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "entityPermissions",
+							"name": "entityPermissions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "id",
+							"name": "id",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "gridless",
+							"displayName": "layoutType",
+							"name": "layoutType",
+							"type": 1,
+							"value": "gridless"
+						},
+						{
+							"attributes": [],
+							"computedValue": "page",
+							"displayName": "displayType",
+							"name": "displayType",
+							"type": 1,
+							"value": "page"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "name",
+							"name": "name",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "title",
+							"name": "title",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "card.rollthecloud.com",
+							"displayName": "site",
+							"name": "site",
+							"type": 1,
+							"value": "card.rollthecloud.com"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "userId",
+							"name": "userId",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "path",
+							"name": "path",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "dataduct",
+									"name": "dataduct",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "persistence",
+							"name": "persistence",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "listeners",
+											"name": "listeners",
+											"type": 4,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "interactions",
+									"name": "interactions",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "interactions",
+							"name": "interactions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "settings",
+									"name": "settings",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "layoutSetting",
+							"name": "layoutSetting",
+							"type": 2,
+							"value": null
+						}
+					]
+				},
+				{
+					"contentPlugin": "panel",
+					"contexts": [],
+					"label": "d51fcee4-84cb-43f6-bffa-826e5d6193e3",
+					"locked": false,
+					"name": "d51fcee4-84cb-43f6-bffa-826e5d6193e3",
+					"settings": [
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "gridItems",
+							"name": "gridItems",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "gridItems",
+																	"name": "gridItems",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "text/html",
+																											"displayName": "Content Type",
+																											"name": "contentType",
+																											"type": 1,
+																											"value": "text/html"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "0 Servers",
+																											"displayName": "Content",
+																											"name": "content",
+																											"type": 1,
+																											"value": "0 Servers"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "jsScript",
+																											"name": "jsScript",
+																											"type": 1,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "settings",
+																									"name": "settings",
+																									"type": 2,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "false",
+																									"displayName": "locked",
+																									"name": "locked",
+																									"type": 5,
+																									"value": "false"
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": null,
+																									"displayName": "contexts",
+																									"name": "contexts",
+																									"type": 4,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "name",
+																									"name": "name",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "label",
+																									"name": "label",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "snippet",
+																									"displayName": "contentPlugin",
+																									"name": "contentPlugin",
+																									"type": 1,
+																									"value": "snippet"
+																								}
+																							],
+																							"computedValue": null,
+																							"displayName": "0",
+																							"name": "0",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "panes",
+																					"name": "panes",
+																					"type": 4,
+																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "name",
+																					"name": "name",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "label",
+																					"name": "label",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "",
+																					"displayName": "stylePlugin",
+																					"name": "stylePlugin",
+																					"type": 1,
+																					"value": ""
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [],
+																							"computedValue": null,
+																							"displayName": "settings",
+																							"name": "settings",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "columnSetting",
+																					"name": "columnSetting",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "panels",
+																	"name": "panels",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "contexts",
+																	"name": "contexts",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "rowSettings",
+																	"name": "rowSettings",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "readUserIds",
+																			"name": "readUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "writeUserIds",
+																			"name": "writeUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "deleteUserIds",
+																			"name": "deleteUserIds",
+																			"type": 4,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "entityPermissions",
+																	"name": "entityPermissions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "id",
+																	"name": "id",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "gridless",
+																	"displayName": "layoutType",
+																	"name": "layoutType",
+																	"type": 1,
+																	"value": "gridless"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "page",
+																	"displayName": "displayType",
+																	"name": "displayType",
+																	"type": 1,
+																	"value": "page"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "name",
+																	"name": "name",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "title",
+																	"name": "title",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "card.rollthecloud.com",
+																	"displayName": "site",
+																	"name": "site",
+																	"type": 1,
+																	"value": "card.rollthecloud.com"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "userId",
+																	"name": "userId",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "path",
+																	"name": "path",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "dataduct",
+																			"name": "dataduct",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "persistence",
+																	"name": "persistence",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "listeners",
+																					"name": "listeners",
+																					"type": 4,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "interactions",
+																			"name": "interactions",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "interactions",
+																	"name": "interactions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "settings",
+																			"name": "settings",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "layoutSetting",
+																	"name": "layoutSetting",
+																	"type": 2,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "defda386-1230-4d2c-a608-f2849f91af60",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": "defda386-1230-4d2c-a608-f2849f91af60"
+														},
+														{
+															"attributes": [],
+															"computedValue": "defda386-1230-4d2c-a608-f2849f91af60",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": "defda386-1230-4d2c-a608-f2849f91af60"
+														},
+														{
+															"attributes": [],
+															"computedValue": "panel",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "panel"
+														}
+													],
+													"computedValue": null,
+													"displayName": "0",
+													"name": "0",
+													"type": 2,
+													"value": null
+												},
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "gridItems",
+																	"name": "gridItems",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "text/html",
+																											"displayName": "Content Type",
+																											"name": "contentType",
+																											"type": 1,
+																											"value": "text/html"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "0 Infrastructure",
+																											"displayName": "Content",
+																											"name": "content",
+																											"type": 1,
+																											"value": "0 Infrastructure"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "jsScript",
+																											"name": "jsScript",
+																											"type": 1,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "settings",
+																									"name": "settings",
+																									"type": 2,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "false",
+																									"displayName": "locked",
+																									"name": "locked",
+																									"type": 5,
+																									"value": "false"
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": null,
+																									"displayName": "contexts",
+																									"name": "contexts",
+																									"type": 4,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "name",
+																									"name": "name",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "label",
+																									"name": "label",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "snippet",
+																									"displayName": "contentPlugin",
+																									"name": "contentPlugin",
+																									"type": 1,
+																									"value": "snippet"
+																								}
+																							],
+																							"computedValue": null,
+																							"displayName": "0",
+																							"name": "0",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "panes",
+																					"name": "panes",
+																					"type": 4,
+																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "name",
+																					"name": "name",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "label",
+																					"name": "label",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "",
+																					"displayName": "stylePlugin",
+																					"name": "stylePlugin",
+																					"type": 1,
+																					"value": ""
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [],
+																							"computedValue": null,
+																							"displayName": "settings",
+																							"name": "settings",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "columnSetting",
+																					"name": "columnSetting",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "panels",
+																	"name": "panels",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "contexts",
+																	"name": "contexts",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "rowSettings",
+																	"name": "rowSettings",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "readUserIds",
+																			"name": "readUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "writeUserIds",
+																			"name": "writeUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "deleteUserIds",
+																			"name": "deleteUserIds",
+																			"type": 4,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "entityPermissions",
+																	"name": "entityPermissions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "id",
+																	"name": "id",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "gridless",
+																	"displayName": "layoutType",
+																	"name": "layoutType",
+																	"type": 1,
+																	"value": "gridless"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "page",
+																	"displayName": "displayType",
+																	"name": "displayType",
+																	"type": 1,
+																	"value": "page"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "name",
+																	"name": "name",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "title",
+																	"name": "title",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "card.rollthecloud.com",
+																	"displayName": "site",
+																	"name": "site",
+																	"type": 1,
+																	"value": "card.rollthecloud.com"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "userId",
+																	"name": "userId",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "path",
+																	"name": "path",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "dataduct",
+																			"name": "dataduct",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "persistence",
+																	"name": "persistence",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "listeners",
+																					"name": "listeners",
+																					"type": 4,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "interactions",
+																			"name": "interactions",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "interactions",
+																	"name": "interactions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "settings",
+																			"name": "settings",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "layoutSetting",
+																	"name": "layoutSetting",
+																	"type": 2,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "91a3d207-7e08-48e8-8a2d-e3a08f4903e2",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": "91a3d207-7e08-48e8-8a2d-e3a08f4903e2"
+														},
+														{
+															"attributes": [],
+															"computedValue": "91a3d207-7e08-48e8-8a2d-e3a08f4903e2",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": "91a3d207-7e08-48e8-8a2d-e3a08f4903e2"
+														},
+														{
+															"attributes": [],
+															"computedValue": "panel",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "panel"
+														}
+													],
+													"computedValue": null,
+													"displayName": "1",
+													"name": "1",
+													"type": 2,
+													"value": null
+												},
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "gridItems",
+																	"name": "gridItems",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "text/html",
+																											"displayName": "Content Type",
+																											"name": "contentType",
+																											"type": 1,
+																											"value": "text/html"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "0 Databases",
+																											"displayName": "Content",
+																											"name": "content",
+																											"type": 1,
+																											"value": "0 Databases"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "jsScript",
+																											"name": "jsScript",
+																											"type": 1,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "settings",
+																									"name": "settings",
+																									"type": 2,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "false",
+																									"displayName": "locked",
+																									"name": "locked",
+																									"type": 5,
+																									"value": "false"
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": null,
+																									"displayName": "contexts",
+																									"name": "contexts",
+																									"type": 4,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "name",
+																									"name": "name",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "label",
+																									"name": "label",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "snippet",
+																									"displayName": "contentPlugin",
+																									"name": "contentPlugin",
+																									"type": 1,
+																									"value": "snippet"
+																								}
+																							],
+																							"computedValue": null,
+																							"displayName": "0",
+																							"name": "0",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "panes",
+																					"name": "panes",
+																					"type": 4,
+																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "name",
+																					"name": "name",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "label",
+																					"name": "label",
+																					"type": 0,
+																					"value": "undefined"
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "",
+																					"displayName": "stylePlugin",
+																					"name": "stylePlugin",
+																					"type": 1,
+																					"value": ""
+																				},
+																				{
+																					"attributes": [
+																						{
+																							"attributes": [],
+																							"computedValue": null,
+																							"displayName": "settings",
+																							"name": "settings",
+																							"type": 2,
+																							"value": null
+																						}
+																					],
+																					"computedValue": null,
+																					"displayName": "columnSetting",
+																					"name": "columnSetting",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "panels",
+																	"name": "panels",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "contexts",
+																	"name": "contexts",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "0",
+																			"name": "0",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "rowSettings",
+																	"name": "rowSettings",
+																	"type": 4,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "readUserIds",
+																			"name": "readUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "writeUserIds",
+																			"name": "writeUserIds",
+																			"type": 4,
+																			"value": null
+																		},
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "deleteUserIds",
+																			"name": "deleteUserIds",
+																			"type": 4,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "entityPermissions",
+																	"name": "entityPermissions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "id",
+																	"name": "id",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "gridless",
+																	"displayName": "layoutType",
+																	"name": "layoutType",
+																	"type": 1,
+																	"value": "gridless"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "page",
+																	"displayName": "displayType",
+																	"name": "displayType",
+																	"type": 1,
+																	"value": "page"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "name",
+																	"name": "name",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "title",
+																	"name": "title",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "card.rollthecloud.com",
+																	"displayName": "site",
+																	"name": "site",
+																	"type": 1,
+																	"value": "card.rollthecloud.com"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "userId",
+																	"name": "userId",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "undefined",
+																	"displayName": "path",
+																	"name": "path",
+																	"type": 0,
+																	"value": "undefined"
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "settings",
+																					"name": "settings",
+																					"type": 2,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "dataduct",
+																			"name": "dataduct",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "persistence",
+																	"name": "persistence",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [
+																				{
+																					"attributes": [],
+																					"computedValue": null,
+																					"displayName": "listeners",
+																					"name": "listeners",
+																					"type": 4,
+																					"value": null
+																				}
+																			],
+																			"computedValue": null,
+																			"displayName": "interactions",
+																			"name": "interactions",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "interactions",
+																	"name": "interactions",
+																	"type": 2,
+																	"value": null
+																},
+																{
+																	"attributes": [
+																		{
+																			"attributes": [],
+																			"computedValue": null,
+																			"displayName": "settings",
+																			"name": "settings",
+																			"type": 2,
+																			"value": null
+																		}
+																	],
+																	"computedValue": null,
+																	"displayName": "layoutSetting",
+																	"name": "layoutSetting",
+																	"type": 2,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "497dff38-caa8-4b4b-81c2-cd7713ac6ede",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": "497dff38-caa8-4b4b-81c2-cd7713ac6ede"
+														},
+														{
+															"attributes": [],
+															"computedValue": "497dff38-caa8-4b4b-81c2-cd7713ac6ede",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": "497dff38-caa8-4b4b-81c2-cd7713ac6ede"
+														},
+														{
+															"attributes": [],
+															"computedValue": "panel",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "panel"
+														}
+													],
+													"computedValue": null,
+													"displayName": "2",
+													"name": "2",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "panes",
+											"name": "panes",
+											"type": 4,
+											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "name",
+											"name": "name",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "label",
+											"name": "label",
+											"type": 0,
+											"value": "undefined"
+										},
+										{
+											"attributes": [],
+											"computedValue": "",
+											"displayName": "stylePlugin",
+											"name": "stylePlugin",
+											"type": 1,
+											"value": ""
+										},
+										{
+											"attributes": [
+												{
+													"attributes": [],
+													"computedValue": null,
+													"displayName": "settings",
+													"name": "settings",
+													"type": 2,
+													"value": null
+												}
+											],
+											"computedValue": null,
+											"displayName": "columnSetting",
+											"name": "columnSetting",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "panels",
+							"name": "panels",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "contexts",
+							"name": "contexts",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "0",
+									"name": "0",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "rowSettings",
+							"name": "rowSettings",
+							"type": 4,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "readUserIds",
+									"name": "readUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "writeUserIds",
+									"name": "writeUserIds",
+									"type": 4,
+									"value": null
+								},
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "deleteUserIds",
+									"name": "deleteUserIds",
+									"type": 4,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "entityPermissions",
+							"name": "entityPermissions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "id",
+							"name": "id",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "gridless",
+							"displayName": "layoutType",
+							"name": "layoutType",
+							"type": 1,
+							"value": "gridless"
+						},
+						{
+							"attributes": [],
+							"computedValue": "page",
+							"displayName": "displayType",
+							"name": "displayType",
+							"type": 1,
+							"value": "page"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "name",
+							"name": "name",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "title",
+							"name": "title",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "card.rollthecloud.com",
+							"displayName": "site",
+							"name": "site",
+							"type": 1,
+							"value": "card.rollthecloud.com"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "userId",
+							"name": "userId",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [],
+							"computedValue": "undefined",
+							"displayName": "path",
+							"name": "path",
+							"type": 0,
+							"value": "undefined"
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "settings",
+											"name": "settings",
+											"type": 2,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "dataduct",
+									"name": "dataduct",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "persistence",
+							"name": "persistence",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [
+										{
+											"attributes": [],
+											"computedValue": null,
+											"displayName": "listeners",
+											"name": "listeners",
+											"type": 4,
+											"value": null
+										}
+									],
+									"computedValue": null,
+									"displayName": "interactions",
+									"name": "interactions",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "interactions",
+							"name": "interactions",
+							"type": 2,
+							"value": null
+						},
+						{
+							"attributes": [
+								{
+									"attributes": [],
+									"computedValue": null,
+									"displayName": "settings",
+									"name": "settings",
+									"type": 2,
+									"value": null
+								}
+							],
+							"computedValue": null,
+							"displayName": "layoutSetting",
+							"name": "layoutSetting",
+							"type": 2,
+							"value": null
+						}
+					]
 				}
 			],
 			"settings": [],
