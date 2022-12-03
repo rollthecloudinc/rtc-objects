@@ -897,11 +897,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<h2>Initiatives & Accomplishments</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>",
+																	"computedValue": "<h2 class=\"font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl\">Initiatives & Accomplishments</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<h2>Initiatives & Accomplishments</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>"
+																	"value": "<h2 class=\"font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl\">Initiatives & Accomplishments</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui. Proin maximus mi eu lacus fringilla interdum. Ut ut laoreet orci, rutrum egestas risus. Donec mattis felis elit, in ornare felis consequat id. Nam pretium imperdiet nisl, vitae ultricies turpis fringilla eu. Fusce pretium ac urna eu venenatis. Etiam elit augue, pellentesque a arcu at, lobortis consequat odio.</p>"
 																},
 																{
 																	"attributes": [],
