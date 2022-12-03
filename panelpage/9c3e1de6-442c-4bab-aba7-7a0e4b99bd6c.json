@@ -1421,6 +1421,31 @@
 																																			"name": "contentPlugin",
 																																			"type": 1,
 																																			"value": "snippet"
+																																		},
+																																		{
+																																			"attributes": [
+																																				{
+																																					"attributes": [],
+																																					"computedValue": "",
+																																					"displayName": "condition",
+																																					"name": "condition",
+																																					"type": 1,
+																																					"value": ""
+																																				},
+																																				{
+																																					"attributes": [],
+																																					"computedValue": null,
+																																					"displayName": "rules",
+																																					"name": "rules",
+																																					"type": 4,
+																																					"value": null
+																																				}
+																																			],
+																																			"computedValue": null,
+																																			"displayName": "rule",
+																																			"name": "rule",
+																																			"type": 2,
+																																			"value": null
 																																		}
 																																	],
 																																	"computedValue": null,
@@ -1503,6 +1528,31 @@
 																																			"name": "contentPlugin",
 																																			"type": 1,
 																																			"value": "snippet"
+																																		},
+																																		{
+																																			"attributes": [
+																																				{
+																																					"attributes": [],
+																																					"computedValue": "",
+																																					"displayName": "condition",
+																																					"name": "condition",
+																																					"type": 1,
+																																					"value": ""
+																																				},
+																																				{
+																																					"attributes": [],
+																																					"computedValue": null,
+																																					"displayName": "rules",
+																																					"name": "rules",
+																																					"type": 4,
+																																					"value": null
+																																				}
+																																			],
+																																			"computedValue": null,
+																																			"displayName": "rule",
+																																			"name": "rule",
+																																			"type": 2,
+																																			"value": null
 																																		}
 																																	],
 																																	"computedValue": null,
@@ -1715,6 +1765,14 @@
 																															"name": "settings",
 																															"type": 2,
 																															"value": null
+																														},
+																														{
+																															"attributes": [],
+																															"computedValue": "undefined",
+																															"displayName": "plugin",
+																															"name": "plugin",
+																															"type": 0,
+																															"value": "undefined"
 																														}
 																													],
 																													"computedValue": null,
@@ -1819,6 +1877,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "panel"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -2325,6 +2408,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "panel"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -2831,6 +2939,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "panel"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -3043,6 +3176,14 @@
 																					"name": "settings",
 																					"type": 2,
 																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "plugin",
+																					"name": "plugin",
+																					"type": 0,
+																					"value": "undefined"
 																				}
 																			],
 																			"computedValue": null,
@@ -3246,11 +3387,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "HEDGE",
+																																					"computedValue": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">HEDGE</h3>",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "HEDGE"
+																																					"value": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">HEDGE</h3>"
 																																				},
 																																				{
 																																					"attributes": [],
@@ -3835,11 +3976,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "Quell",
+																																					"computedValue": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">Quell</h3>",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "Quell"
+																																					"value": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">Quell</h3>"
 																																				},
 																																				{
 																																					"attributes": [],
@@ -4424,11 +4565,11 @@
 																																				},
 																																				{
 																																					"attributes": [],
-																																					"computedValue": "CarbonFree",
+																																					"computedValue": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">CarbonFree</h3>",
 																																					"displayName": "Content",
 																																					"name": "content",
 																																					"type": 1,
-																																					"value": "CarbonFree"
+																																					"value": "<h3 class=\"mt-8 font-display text-xl font-bold tracking-tight text-slate-900\">CarbonFree</h3>"
 																																				},
 																																				{
 																																					"attributes": [],
