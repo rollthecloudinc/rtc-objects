@@ -8811,11 +8811,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
+																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
+																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -8871,6 +8871,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -9375,11 +9400,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
+																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
+																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -9435,6 +9460,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -9939,11 +9989,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
+																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
+																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat. Nam vitae orci molestie magna ullamcorper viverra. Maecenas molestie ex odio, vel dictum ante varius eget. Quisque consectetur ligula at feugiat consectetur.\n</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -9999,6 +10049,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
