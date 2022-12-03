@@ -5641,11 +5641,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<h2>This is how we roll n ride shooting for the stars n moon</h2>",
+																	"computedValue": "<h2 class=\"font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl\">This is how we roll n ride shooting for the stars n moon</h2>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<h2>This is how we roll n ride shooting for the stars n moon</h2>"
+																	"value": "<h2 class=\"font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl\">This is how we roll n ride shooting for the stars n moon</h2>"
 																},
 																{
 																	"attributes": [],
@@ -5701,6 +5701,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -5913,6 +5938,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
