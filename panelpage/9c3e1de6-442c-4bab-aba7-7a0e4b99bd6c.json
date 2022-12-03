@@ -8704,11 +8704,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "0 Servers",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Servers</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "0 Servers"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Servers</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -8764,6 +8764,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -8976,6 +9001,14 @@
 																					"name": "settings",
 																					"type": 2,
 																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "plugin",
+																					"name": "plugin",
+																					"type": 0,
+																					"value": "undefined"
 																				}
 																			],
 																			"computedValue": null,
@@ -9080,6 +9113,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "panel"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -9128,11 +9186,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "0 Infrastructure",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Infrastructure</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "0 Infrastructure"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Infrastructure</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -9188,6 +9246,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -9400,6 +9483,14 @@
 																					"name": "settings",
 																					"type": 2,
 																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "plugin",
+																					"name": "plugin",
+																					"type": 0,
+																					"value": "undefined"
 																				}
 																			],
 																			"computedValue": null,
@@ -9504,6 +9595,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "panel"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -9552,11 +9668,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "0 Databases",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Databases</p>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "0 Databases"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-900\">0 Databases</p>"
 																										},
 																										{
 																											"attributes": [],
@@ -9612,6 +9728,31 @@
 																									"name": "contentPlugin",
 																									"type": 1,
 																									"value": "snippet"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
 																								}
 																							],
 																							"computedValue": null,
@@ -9824,6 +9965,14 @@
 																					"name": "settings",
 																					"type": 2,
 																					"value": null
+																				},
+																				{
+																					"attributes": [],
+																					"computedValue": "undefined",
+																					"displayName": "plugin",
+																					"name": "plugin",
+																					"type": 0,
+																					"value": "undefined"
 																				}
 																			],
 																			"computedValue": null,
@@ -9928,6 +10077,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "panel"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -10140,6 +10314,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
