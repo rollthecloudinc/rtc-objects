@@ -8869,11 +8869,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">Our enterprise platform is built entirely using serverless architecture without any physical or virtual servers.</p>\n",
+																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">Our enterprise platform is built entirely using serverless architecture tracking SCI without any physical or virtual servers.</p>\n",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">Our enterprise platform is built entirely using serverless architecture without any physical or virtual servers.</p>\n"
+																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">Our enterprise platform is built entirely using serverless architecture tracking SCI without any physical or virtual servers.</p>\n"
 																										},
 																										{
 																											"attributes": [],
