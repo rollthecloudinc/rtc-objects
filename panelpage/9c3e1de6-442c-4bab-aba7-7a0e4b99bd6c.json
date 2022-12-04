@@ -6278,11 +6278,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">1 Reduce</h3>",
+																											"computedValue": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">1 Reduce</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">1 Reduce</h3>"
+																											"value": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">1 Reduce</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -6867,11 +6867,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">2 Reuse</h3>",
+																											"computedValue": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">2 Reuse</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">2 Reuse</h3>"
+																											"value": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">2 Reuse</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -7456,11 +7456,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">3 Recycle</h3>",
+																											"computedValue": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">3 Recycle</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<h3 class=\"text-7xl font-semibold tracking-tight text-blue-600\">3 Recycle</h3>"
+																											"value": "<h3 class=\"text-5xl font-semibold tracking-tight text-blue-600\">3 Recycle</h3>"
 																										},
 																										{
 																											"attributes": [],
