@@ -8754,113 +8754,6 @@
 																									"attributes": [
 																										{
 																											"attributes": [],
-																											"computedValue": "text/html",
-																											"displayName": "Content Type",
-																											"name": "contentType",
-																											"type": 1,
-																											"value": "text/html"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>",
-																											"displayName": "Content",
-																											"name": "content",
-																											"type": 1,
-																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "jsScript",
-																											"name": "jsScript",
-																											"type": 1,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "settings",
-																									"name": "settings",
-																									"type": 2,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "false",
-																									"displayName": "locked",
-																									"name": "locked",
-																									"type": 5,
-																									"value": "false"
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": null,
-																									"displayName": "contexts",
-																									"name": "contexts",
-																									"type": 4,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "name",
-																									"name": "name",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "label",
-																									"name": "label",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "snippet",
-																									"displayName": "contentPlugin",
-																									"name": "contentPlugin",
-																									"type": 1,
-																									"value": "snippet"
-																								},
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "",
-																											"displayName": "condition",
-																											"name": "condition",
-																											"type": 1,
-																											"value": ""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "rules",
-																											"name": "rules",
-																											"type": 4,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "rule",
-																									"name": "rule",
-																									"type": 2,
-																									"value": null
-																								}
-																							],
-																							"computedValue": null,
-																							"displayName": "0",
-																							"name": "0",
-																							"type": 2,
-																							"value": null
-																						},
-																						{
-																							"attributes": [
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
 																											"computedValue": "form-data; name=\"File\"; filename=\"rtc_windmills.svg\"",
 																											"displayName": "contentDisposition",
 																											"name": "contentDisposition",
@@ -8981,8 +8874,8 @@
 																								}
 																							],
 																							"computedValue": null,
-																							"displayName": "1",
-																							"name": "1",
+																							"displayName": "0",
+																							"name": "0",
 																							"type": 2,
 																							"value": null
 																						},
@@ -9000,11 +8893,11 @@
 																										},
 																										{
 																											"attributes": [],
-																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>",
+																											"computedValue": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>",
 																											"displayName": "Content",
 																											"name": "content",
 																											"type": 1,
-																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>"
+																											"value": "<h3 class=\"text-2xl font-semibold tracking-tight text-blue-600\">0 Servers</h3>"
 																										},
 																										{
 																											"attributes": [],
@@ -9088,8 +8981,8 @@
 																								}
 																							],
 																							"computedValue": null,
-																							"displayName": "2",
-																							"name": "2",
+																							"displayName": "1",
+																							"name": "1",
 																							"type": 2,
 																							"value": null
 																						}
@@ -9474,6 +9367,137 @@
 																									"attributes": [
 																										{
 																											"attributes": [],
+																											"computedValue": "form-data; name=\"File\"; filename=\"rtc_sun.svg\"",
+																											"displayName": "contentDisposition",
+																											"name": "contentDisposition",
+																											"type": 1,
+																											"value": "form-data; name=\"File\"; filename=\"rtc_sun.svg\""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "contentType",
+																											"name": "contentType",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "rtc_sun",
+																											"displayName": "id",
+																											"name": "id",
+																											"type": 1,
+																											"value": "rtc_sun"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "2132",
+																											"displayName": "length",
+																											"name": "length",
+																											"type": 1,
+																											"value": "2132"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "media/rtc_sun.svg",
+																											"displayName": "path",
+																											"name": "path",
+																											"type": 1,
+																											"value": "media/rtc_sun.svg"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "placeholdername",
+																											"displayName": "fileName",
+																											"name": "fileName",
+																											"type": 1,
+																											"value": "placeholdername"
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "settings",
+																									"name": "settings",
+																									"type": 2,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "false",
+																									"displayName": "locked",
+																									"name": "locked",
+																									"type": 5,
+																									"value": "false"
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": null,
+																									"displayName": "contexts",
+																									"name": "contexts",
+																									"type": 4,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "name",
+																									"name": "name",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "label",
+																									"name": "label",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "media",
+																									"displayName": "contentPlugin",
+																									"name": "contentPlugin",
+																									"type": 1,
+																									"value": "media"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
+																								}
+																							],
+																							"computedValue": null,
+																							"displayName": "0",
+																							"name": "0",
+																							"type": 2,
+																							"value": null
+																						},
+																						{
+																							"attributes": [
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
 																											"computedValue": "text/html",
 																											"displayName": "Content Type",
 																											"name": "contentType",
@@ -9570,221 +9594,8 @@
 																								}
 																							],
 																							"computedValue": null,
-																							"displayName": "0",
-																							"name": "0",
-																							"type": 2,
-																							"value": null
-																						},
-																						{
-																							"attributes": [
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "form-data; name=\"File\"; filename=\"rtc_sun.svg\"",
-																											"displayName": "contentDisposition",
-																											"name": "contentDisposition",
-																											"type": 1,
-																											"value": "form-data; name=\"File\"; filename=\"rtc_sun.svg\""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "",
-																											"displayName": "contentType",
-																											"name": "contentType",
-																											"type": 1,
-																											"value": ""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "rtc_sun",
-																											"displayName": "id",
-																											"name": "id",
-																											"type": 1,
-																											"value": "rtc_sun"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "2132",
-																											"displayName": "length",
-																											"name": "length",
-																											"type": 1,
-																											"value": "2132"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "media/rtc_sun.svg",
-																											"displayName": "path",
-																											"name": "path",
-																											"type": 1,
-																											"value": "media/rtc_sun.svg"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "placeholdername",
-																											"displayName": "fileName",
-																											"name": "fileName",
-																											"type": 1,
-																											"value": "placeholdername"
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "settings",
-																									"name": "settings",
-																									"type": 2,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "false",
-																									"displayName": "locked",
-																									"name": "locked",
-																									"type": 5,
-																									"value": "false"
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": null,
-																									"displayName": "contexts",
-																									"name": "contexts",
-																									"type": 4,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "name",
-																									"name": "name",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "label",
-																									"name": "label",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "media",
-																									"displayName": "contentPlugin",
-																									"name": "contentPlugin",
-																									"type": 1,
-																									"value": "media"
-																								}
-																							],
-																							"computedValue": null,
 																							"displayName": "1",
 																							"name": "1",
-																							"type": 2,
-																							"value": null
-																						},
-																						{
-																							"attributes": [
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "text/html",
-																											"displayName": "Content Type",
-																											"name": "contentType",
-																											"type": 1,
-																											"value": "text/html"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>",
-																											"displayName": "Content",
-																											"name": "content",
-																											"type": 1,
-																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "jsScript",
-																											"name": "jsScript",
-																											"type": 1,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "settings",
-																									"name": "settings",
-																									"type": 2,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "false",
-																									"displayName": "locked",
-																									"name": "locked",
-																									"type": 5,
-																									"value": "false"
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": null,
-																									"displayName": "contexts",
-																									"name": "contexts",
-																									"type": 4,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "name",
-																									"name": "name",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "label",
-																									"name": "label",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "snippet",
-																									"displayName": "contentPlugin",
-																									"name": "contentPlugin",
-																									"type": 1,
-																									"value": "snippet"
-																								},
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "",
-																											"displayName": "condition",
-																											"name": "condition",
-																											"type": 1,
-																											"value": ""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "rules",
-																											"name": "rules",
-																											"type": 4,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "rule",
-																									"name": "rule",
-																									"type": 2,
-																									"value": null
-																								}
-																							],
-																							"computedValue": null,
-																							"displayName": "2",
-																							"name": "2",
 																							"type": 2,
 																							"value": null
 																						}
@@ -10169,6 +9980,137 @@
 																									"attributes": [
 																										{
 																											"attributes": [],
+																											"computedValue": "form-data; name=\"File\"; filename=\"rtc_recycle.svg\"",
+																											"displayName": "contentDisposition",
+																											"name": "contentDisposition",
+																											"type": 1,
+																											"value": "form-data; name=\"File\"; filename=\"rtc_recycle.svg\""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "contentType",
+																											"name": "contentType",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "rtc_recycle",
+																											"displayName": "id",
+																											"name": "id",
+																											"type": 1,
+																											"value": "rtc_recycle"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "1647",
+																											"displayName": "length",
+																											"name": "length",
+																											"type": 1,
+																											"value": "1647"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "media/rtc_recycle.svg",
+																											"displayName": "path",
+																											"name": "path",
+																											"type": 1,
+																											"value": "media/rtc_recycle.svg"
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": "placeholdername",
+																											"displayName": "fileName",
+																											"name": "fileName",
+																											"type": 1,
+																											"value": "placeholdername"
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "settings",
+																									"name": "settings",
+																									"type": 2,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "false",
+																									"displayName": "locked",
+																									"name": "locked",
+																									"type": 5,
+																									"value": "false"
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": null,
+																									"displayName": "contexts",
+																									"name": "contexts",
+																									"type": 4,
+																									"value": null
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "name",
+																									"name": "name",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "",
+																									"displayName": "label",
+																									"name": "label",
+																									"type": 1,
+																									"value": ""
+																								},
+																								{
+																									"attributes": [],
+																									"computedValue": "media",
+																									"displayName": "contentPlugin",
+																									"name": "contentPlugin",
+																									"type": 1,
+																									"value": "media"
+																								},
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
+																											"computedValue": "",
+																											"displayName": "condition",
+																											"name": "condition",
+																											"type": 1,
+																											"value": ""
+																										},
+																										{
+																											"attributes": [],
+																											"computedValue": null,
+																											"displayName": "rules",
+																											"name": "rules",
+																											"type": 4,
+																											"value": null
+																										}
+																									],
+																									"computedValue": null,
+																									"displayName": "rule",
+																									"name": "rule",
+																									"type": 2,
+																									"value": null
+																								}
+																							],
+																							"computedValue": null,
+																							"displayName": "0",
+																							"name": "0",
+																							"type": 2,
+																							"value": null
+																						},
+																						{
+																							"attributes": [
+																								{
+																									"attributes": [
+																										{
+																											"attributes": [],
 																											"computedValue": "text/html",
 																											"displayName": "Content Type",
 																											"name": "contentType",
@@ -10265,221 +10207,8 @@
 																								}
 																							],
 																							"computedValue": null,
-																							"displayName": "0",
-																							"name": "0",
-																							"type": 2,
-																							"value": null
-																						},
-																						{
-																							"attributes": [
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "form-data; name=\"File\"; filename=\"rtc_recycle.svg\"",
-																											"displayName": "contentDisposition",
-																											"name": "contentDisposition",
-																											"type": 1,
-																											"value": "form-data; name=\"File\"; filename=\"rtc_recycle.svg\""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "",
-																											"displayName": "contentType",
-																											"name": "contentType",
-																											"type": 1,
-																											"value": ""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "rtc_recycle",
-																											"displayName": "id",
-																											"name": "id",
-																											"type": 1,
-																											"value": "rtc_recycle"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "1647",
-																											"displayName": "length",
-																											"name": "length",
-																											"type": 1,
-																											"value": "1647"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "media/rtc_recycle.svg",
-																											"displayName": "path",
-																											"name": "path",
-																											"type": 1,
-																											"value": "media/rtc_recycle.svg"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "placeholdername",
-																											"displayName": "fileName",
-																											"name": "fileName",
-																											"type": 1,
-																											"value": "placeholdername"
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "settings",
-																									"name": "settings",
-																									"type": 2,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "false",
-																									"displayName": "locked",
-																									"name": "locked",
-																									"type": 5,
-																									"value": "false"
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": null,
-																									"displayName": "contexts",
-																									"name": "contexts",
-																									"type": 4,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "name",
-																									"name": "name",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "label",
-																									"name": "label",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "media",
-																									"displayName": "contentPlugin",
-																									"name": "contentPlugin",
-																									"type": 1,
-																									"value": "media"
-																								}
-																							],
-																							"computedValue": null,
 																							"displayName": "1",
 																							"name": "1",
-																							"type": 2,
-																							"value": null
-																						},
-																						{
-																							"attributes": [
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "text/html",
-																											"displayName": "Content Type",
-																											"name": "contentType",
-																											"type": 1,
-																											"value": "text/html"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>",
-																											"displayName": "Content",
-																											"name": "content",
-																											"type": 1,
-																											"value": "<p class=\"mt-1.5 text-base tracking-tight text-blue-900\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mollis ut sodales ut, rhoncus a tortor. Maecenas viverra sapien a tristique feugiat.\n</p>"
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "jsScript",
-																											"name": "jsScript",
-																											"type": 1,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "settings",
-																									"name": "settings",
-																									"type": 2,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "false",
-																									"displayName": "locked",
-																									"name": "locked",
-																									"type": 5,
-																									"value": "false"
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": null,
-																									"displayName": "contexts",
-																									"name": "contexts",
-																									"type": 4,
-																									"value": null
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "name",
-																									"name": "name",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "",
-																									"displayName": "label",
-																									"name": "label",
-																									"type": 1,
-																									"value": ""
-																								},
-																								{
-																									"attributes": [],
-																									"computedValue": "snippet",
-																									"displayName": "contentPlugin",
-																									"name": "contentPlugin",
-																									"type": 1,
-																									"value": "snippet"
-																								},
-																								{
-																									"attributes": [
-																										{
-																											"attributes": [],
-																											"computedValue": "",
-																											"displayName": "condition",
-																											"name": "condition",
-																											"type": 1,
-																											"value": ""
-																										},
-																										{
-																											"attributes": [],
-																											"computedValue": null,
-																											"displayName": "rules",
-																											"name": "rules",
-																											"type": 4,
-																											"value": null
-																										}
-																									],
-																									"computedValue": null,
-																									"displayName": "rule",
-																									"name": "rule",
-																									"type": 2,
-																									"value": null
-																								}
-																							],
-																							"computedValue": null,
-																							"displayName": "2",
-																							"name": "2",
 																							"type": 2,
 																							"value": null
 																						}
