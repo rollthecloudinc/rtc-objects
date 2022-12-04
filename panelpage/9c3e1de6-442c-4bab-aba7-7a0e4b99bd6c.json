@@ -10767,6 +10767,10 @@
 					"label": "e351c743-ab5b-48d8-b71f-4c0470936460",
 					"locked": false,
 					"name": "e351c743-ab5b-48d8-b71f-4c0470936460",
+					"rule": {
+						"condition": "",
+						"rules": []
+					},
 					"settings": [
 						{
 							"attributes": [],
@@ -10804,11 +10808,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<h2>Current sponsorships for our workshops and speakers.</h2>",
+																	"computedValue": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<h2 class=\"mx-auto max-w-2xl text-center font-display text-4xl font-medium tracking-tighter text-blue-900 sm:text-5xl\">Current sponsorships for our workshops and speakers.</h2>\n</div>\n</div>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<h2>Current sponsorships for our workshops and speakers.</h2>"
+																	"value": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<h2 class=\"mx-auto max-w-2xl text-center font-display text-4xl font-medium tracking-tighter text-blue-900 sm:text-5xl\">Current sponsorships for our workshops and speakers.</h2>\n</div>\n</div>"
 																},
 																{
 																	"attributes": [],
@@ -10864,6 +10868,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -11076,6 +11105,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
