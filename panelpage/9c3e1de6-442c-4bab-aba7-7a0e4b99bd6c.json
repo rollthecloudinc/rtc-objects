@@ -5840,11 +5840,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10\">\n<div class=\"mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Mission</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">We are dedicated to doing good on the web as a registered 501(c)3 charity combating the climate crisis.</p></div>\n</div>\n</div>",
+																	"computedValue": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10\">\n<div class=\"mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Mission</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Our motivation is the reimagining of the traditional internet to one working with the environment and not in opposition to it.</p></div>\n</div>\n</div>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10\">\n<div class=\"mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Mission</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">We are dedicated to doing good on the web as a registered 501(c)3 charity combating the climate crisis.</p></div>\n</div>\n</div>"
+																	"value": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10\">\n<div class=\"mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Mission</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Our motivation is the reimagining of the traditional internet to one working with the environment and not in opposition to it.</p></div>\n</div>\n</div>"
 																},
 																{
 																	"attributes": [],
