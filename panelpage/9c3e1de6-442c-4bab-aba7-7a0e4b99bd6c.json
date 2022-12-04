@@ -897,11 +897,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<div class=\"mx-auto max-w-2xl lg:mx-0\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Initiatives</h2>\n</div>\n</div>\n</div>",
+																	"computedValue": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<div class=\"mx-auto max-w-2xl lg:mx-0\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Initiatives</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui.</p>\n</div>\n</div>\n</div>",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<div class=\"mx-auto max-w-2xl lg:mx-0\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Initiatives</h2>\n</div>\n</div>\n</div>"
+																	"value": "<div class=\"py-20 sm:py-32\">\n<div class=\"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8\">\n<div class=\"mx-auto max-w-2xl lg:mx-0\">\n<h2 class=\"font-display text-4xl font-medium tracking-tighter text-rtc-gold sm:text-5xl\">Initiatives</h2>\n<p class=\"mt-4 font-display text-2xl tracking-tight text-blue-900\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dui nulla, consequat a molestie quis, ultricies sed dui.</p>\n</div>\n</div>\n</div>"
 																},
 																{
 																	"attributes": [],
